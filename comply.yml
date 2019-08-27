@@ -1,8 +1,0 @@
-name: Grayframe
-filePrefix: grayframe
-tickets:
-  github:
-    repo: polyient/grayframe-comply.git
-    token: c94fd53806d1de12d8655c76fee0d12636352c25
-    username: ncasares
-approvedBranch: ""
